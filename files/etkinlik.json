@@ -1,0 +1,44 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "mikufyetkinlik",
+      "messages": [
+        {
+          "data": {
+            "content": "Etkinlik Görevlisi : Discord Adınız",
+            "embeds": [
+              {
+                "title": "Karakter Karşılaştırma",
+                "description": "1. **Anime İsmi**\n\n• *Karakter: Karakter adı*\n\n2. **Anime İsmi**\n\n• *Karakter: Karakter adı*",
+                "color": 3793387
+              },
+              {
+                "title": "Öp Öldür Evlen",
+                "description": "**• Anime:** Anime İsmi\n**• Karakter:** Karakter adı",
+                "color": 3793387
+              },
+              {
+                "title": "Soru: Anime Sorusu",
+                "description": "**• A) A Şıkkı**\n**• B) B  Şıkkı**\n**• C) C Şıkkı**\n**• D) D Şıkkı**",
+                "color": 3793387
+              },
+              {
+                "title": "Günün Sorusu",
+                "description": "• **Günün Sorusu Metni**",
+                "color": 3793387
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1279174930906480711/XZPro2O9lgT1Sul2Jv3AEXd5edJKDUFp4BjLwZ3ZT9QJtAuoRY0uAuzlWWVo5S8K_j0I"
+        }
+      ]
+    }
+  ]
+}
